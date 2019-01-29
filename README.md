@@ -1,1 +1,11 @@
 # responsive-web
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%20header%201.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%202.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%203.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%204.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%205.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%206.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%207.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%208.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%209.PNG?raw=true)
+![alt text](https://github.com/Rahmawatiasysyifaputri/responsive-web/blob/master/ss%2010.PNG?raw=true)
